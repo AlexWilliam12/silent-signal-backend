@@ -12,6 +12,10 @@
   <img src="https://i.imgur.com/orlCpQX.png" alt="Imagem logo" />
 </p>
 
+![GitHub license](https://img.shields.io/github/license/AlexWilliam12)
+![GitHub languages top](https://img.shields.io/github/languages/top/AlexWilliam12/silent-signal-backend)
+![GitHub last commit](https://img.shields.io/github/last-commit/AlexWilliam12/silent-signal-backend)
+
 # Silent Signal
 
 Silent Signal é um aplicativo de mensagens seguro e privado, projetado para proteger as comunicações dos usuários. O servidor é construído com Go (Golang) e utiliza PostgreSQL para armazenamento de dados.
