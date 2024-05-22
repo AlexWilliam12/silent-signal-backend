@@ -1,4 +1,11 @@
 
+<h4 align="center">
+    <p>
+        <b>English</b> |
+        <a href="./README_PT-br.md">Рortuguês</a>
+    </p>
+</h4>
+
 
 
 <p align="center">
