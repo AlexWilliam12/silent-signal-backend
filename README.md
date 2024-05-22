@@ -12,7 +12,7 @@
   <img src="https://i.imgur.com/orlCpQX.png" alt="Imagem logo" />
 </p>
 
-![GitHub license](https://img.shields.io/github/license/AlexWilliam12)
+![GitHub license](https://img.shields.io/github/license/AlexWilliam12/silent-signal-backend)
 ![GitHub languages top](https://img.shields.io/github/languages/top/AlexWilliam12/silent-signal-backend)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlexWilliam12/silent-signal-backend)
 
