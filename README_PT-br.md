@@ -15,6 +15,8 @@
 ![GitHub license](https://img.shields.io/github/license/AlexWilliam12/silent-signal-backend)
 ![GitHub languages top](https://img.shields.io/github/languages/top/AlexWilliam12/silent-signal-backend)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlexWilliam12/silent-signal-backend)
+![GitHub repo size](https://img.shields.io/github/repo-size/AlexWilliam12/silent-signal-backend)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e9c591e9cf3f442d9e5e115efd813dab)](https://app.codacy.com/gh/alvarorichard/silent-signal-backend/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 # Silent Signal
 
