@@ -15,6 +15,7 @@
 ![GitHub license](https://img.shields.io/github/license/AlexWilliam12/silent-signal-backend)
 ![GitHub languages top](https://img.shields.io/github/languages/top/AlexWilliam12/silent-signal-backend)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AlexWilliam12/silent-signal-backend)
+![GitHub repo size](https://img.shields.io/github/repo-size/AlexWilliam12/silent-signal-backend)
 
 
 
